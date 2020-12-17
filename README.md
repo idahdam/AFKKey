@@ -2,4 +2,4 @@
 How not to afk
 
 # why
-is there on the about section of the app
+it's there on the about section of the app
