@@ -26,13 +26,13 @@ and also compile your java file to make .class files
 `
   Main-Class: Main
 `
-2. create a jar file within the folder
+3. create a jar file within the folder
 
 `
   java jar cvmf manifest.txt Main.jar *.class
 `
 
-3. run your jar file with cli
+4. run your jar file with cli
 
 `
   java -cp Main.jar Main.java
