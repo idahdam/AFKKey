@@ -5,7 +5,7 @@ How not to afk
 it's there on the about section of the app
 
 # how
-imma give you out a tutorial on how to compile .java to .jar executable with cli. assuming you're already in the folder that contains your Main.java file, you're good.
+imma give you all a tutorial on how to compile .java to .jar executable with cli. assuming you're already in the folder that contains your Main.java file, you're good.
 
 1. open up your command line and type
 
